@@ -148,6 +148,8 @@ IMPORTANTE: Precisei desabilitar o NewFoundry pois estava encontrando sucessivos
 1) Crie o Projeto (AgendaSync)
    <img width="1148" height="690" alt="image" src="https://github.com/user-attachments/assets/c8677f4b-ba1d-40e3-838b-57d441e117e6" />
 
+Endpoint do Projeto: <https://agendasync-resource.services.ai.azure.com/api/projects/agendasync>
+
 2) Crie o Agente dentro do Projeto
 
    <img width="1686" height="469" alt="image" src="https://github.com/user-attachments/assets/553428b0-c97c-4dce-abc4-480108fc64a3" />
